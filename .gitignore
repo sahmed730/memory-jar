@@ -1,0 +1,18 @@
+# Flutter/Dart
+memory_jar_mobile/build/
+memory_jar_mobile/.dart_tool/
+memory_jar_mobile/.pub-cache/
+memory_jar_mobile/.pub/
+memory_jar_mobile/*.iml
+
+# Spring Boot/Gradle
+memory-jar-backend/.gradle/
+memory-jar-backend/build/
+memory-jar-backend/out/
+memory-jar-backend/bin/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
